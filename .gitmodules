@@ -1,0 +1,6 @@
+[submodule "stelo"]
+	path = stelo
+	url = git@github.com:tukss/stelo.git
+[submodule "Rayleigh"]
+	path = Rayleigh
+	url = git@github.com:geodynamics/Rayleigh.git
