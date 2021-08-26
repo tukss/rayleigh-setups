@@ -3,4 +3,4 @@
 	url = git@github.com:tukss/stelo.git
 [submodule "Rayleigh"]
 	path = Rayleigh
-	url = git@github.com:geodynamics/Rayleigh.git
+	url = git@github.com:tukss/Rayleigh.git
